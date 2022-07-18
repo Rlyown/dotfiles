@@ -1,6 +1,6 @@
+[submodule ".tmux"]
+	path = .tmux
+	url = git@github.com:Rlyown/.tmux.git
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:Rlyown/nvim.git
-[submodule "tmux"]
-	path = tmux
-	url = git@github.com:Rlyown/.tmux.git
